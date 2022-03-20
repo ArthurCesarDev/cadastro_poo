@@ -10,14 +10,14 @@ public class Cadastro {
 	   return email;
 	}
 	 public double totalValueInCpf() {
-		   return cpf;
-		}
+	   return cpf;
+	}
 	 public double totalValueTelefone() {
-		   return telefone;
-		}
+	    return telefone;
+	}
 	 
-	
 	public String toString() {
 	return email;
+		
 	}
 }
